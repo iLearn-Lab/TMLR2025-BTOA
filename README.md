@@ -1,4 +1,4 @@
-# BTOA(TMLR 2025)
+# BTOA(TMLR25)
 
 > Official Implementation of the  Paper: A Transferable Augmentation Framework to Combat Distribution Shifts(TMLR 2025)
 
